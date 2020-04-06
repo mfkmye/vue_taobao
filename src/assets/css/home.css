@@ -1,0 +1,13 @@
+body,
+button,
+input,
+select,
+textarea {
+    font: 12px/1.5 tahoma, arial, 'Hiragino Sans GB', '\5b8b\4f53', sans-serif;
+}
+
+body {
+    color: #3C3C3C;
+    -webkit-font-smoothing: antialiased;
+    background-color: #f4f4f4;
+}
